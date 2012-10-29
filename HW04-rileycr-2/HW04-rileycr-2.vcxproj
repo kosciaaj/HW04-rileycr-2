@@ -75,9 +75,11 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="HW04App.cpp" />
+    <ClCompile Include="Node.cpp" />
     <ClCompile Include="rileycrStarbucks.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Node.h" />
     <ClInclude Include="rileycrStarbucks.h" />
     <ClInclude Include="Starbucks.h" />
   </ItemGroup>
